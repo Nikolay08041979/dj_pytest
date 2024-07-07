@@ -16,16 +16,7 @@
 
 
 ## Измененя внесены:
-✅ [../advertisements/models.py](https://github.com/Nikolay08041979/dj_api_with_restrictions/blob/master/3.3-permissions/api_with_restrictions/advertisements/models.py)
 
-✅ [../advertisement/admin.py](https://github.com/Nikolay08041979/dj_api_with_restrictions/blob/master/3.3-permissions/api_with_restrictions/advertisements/admin.py)
+✅ [../tests/students/test_courses_api.py](https://github.com/Nikolay08041979/dj_pytest/blob/master/3.4-django-testing/django_testing/tests/students/test_courses_api.py)
 
-✅ [../advertisement/views.py](https://github.com/Nikolay08041979/dj_api_with_restrictions/blob/master/3.3-permissions/api_with_restrictions/advertisements/views.py)
-
-✅ [../advertisements/serializers.py](https://github.com/Nikolay08041979/dj_api_with_restrictions/blob/master/3.3-permissions/api_with_restrictions/advertisements/serializers.py)
-
-✅ [../advertisements/filters.py](https://github.com/Nikolay08041979/dj_api_with_restrictions/blob/master/3.3-permissions/api_with_restrictions/advertisements/filters.py)
-
-✅ [../api_with_restrictions/urls.py](https://github.com/Nikolay08041979/dj_api_with_restrictions/blob/master/3.3-permissions/api_with_restrictions/api_with_restrictions/urls.py)
-
-✅ [../api_with_restrictions/settings.py](https://github.com/Nikolay08041979/dj_api_with_restrictions/blob/master/3.3-permissions/api_with_restrictions/api_with_restrictions/settings.py)
+✅ [..//settings.py](https://github.com/Nikolay08041979/dj_pytest/blob/master/3.4-django-testing/django_testing/django_testing/settings.py)
